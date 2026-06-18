@@ -3,7 +3,7 @@
 # 🌽 CORNTENNA
 
 ```text                                                                                 
-               [ LOCAL NETWORK RECON TERMINAL ]
+                       [ LOCAL NETWORK RECON TERMINAL ]
 ```
 
 *"The network talks. We just listen."*
