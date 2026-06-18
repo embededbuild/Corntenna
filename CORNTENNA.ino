@@ -532,8 +532,7 @@ void listDevices() {
 }
 
 //so after being a monkey smacking a rock on a rock i finally got it to scan the devices on the network but
-// the hostname is still not showing and lets make the RSSI in the list to actually be VPN
-//to see if the device is using a VPN
+// the hostname is still not showing so switch direction to open ports
 
 void setup() {
   Serial.begin(115200);
