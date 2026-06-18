@@ -1,10 +1,8 @@
 <div align="center">
 
 # 🌽 CORNTENNA
+[ LOCAL NETWORK RECON TERMINAL ]
 
-```text                                                                                 
-                       [ LOCAL NETWORK RECON TERMINAL ]
-```
 
 *"The network talks. We just listen."*
 
