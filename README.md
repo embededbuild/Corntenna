@@ -182,11 +182,6 @@ lwip/netif.h
 lwip/tcpip.h
 ```
 
-### Upload
-
-```bash
-git clone https://github.com/YOUR_USERNAME/CORNTENNA.git
-```
 
 Open in Arduino IDE.
 
